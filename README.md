@@ -18,17 +18,12 @@ This is a full-stack **Todo Task Management App** built as part of the Katomaran
    npm start
 Create a .env file with your MongoDB URI:
 
-ini
-Copy
-Edit
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 🖥️ Frontend Setup
 Navigate to the frontend folder:
 
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
